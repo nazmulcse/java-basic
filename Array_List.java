@@ -22,5 +22,9 @@ public class Array_List{
         System.out.println("Element of array " + alTest);
         // check if the list contains K
         System.out.println(alTest.contains("K"));
+
+        String str = "Hello ";
+        str = "Hello sdf";
+        System.out.println(str);
     }
 }
