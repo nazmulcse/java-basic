@@ -10,6 +10,10 @@
 
 [3. Java Tutorial - StudyToNight.Com](http://www.studytonight.com)
 
+### Install Java 8 on centos 7 with solving `javac command not found`
+`
+sudo yum install java-1.8.0-openjdk-devel
+`
 
 
 
